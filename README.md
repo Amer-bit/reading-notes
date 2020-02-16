@@ -4,6 +4,6 @@
 
 # Table of cotent
 
-Class | Link
+Class  | Link
 ------ | -----
-Class01 | Content from cell 2
+Class01 | https://amer-bit.github.io/reading-notes/Classes/class01
