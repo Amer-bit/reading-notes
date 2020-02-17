@@ -22,7 +22,7 @@ to associate a certain style with elements first u should select the element/s b
 ## CSS Selectors
 to select an element css provides a couple selectors we can use
 Selectors | Definition | Expression
---------- | ---------- | -----------
+---------- | ----------- | ------------
 Universal selector | Applies to all elements in the document | * {}
 Type Selector | Matches element names | h1, h2, h3 {}
 Class Selector | Elements have the same attribute class | .atrributeName{}
@@ -85,4 +85,4 @@ some of the comparison operators are
 ## logical operators 
 1. And has && symbol
 2. or with the || symbol
-3. Not wich has a ! symbol
+3. Not which has a ! symbol
