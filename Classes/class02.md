@@ -38,7 +38,7 @@ Child Selector|element that is a direct child of another|ul>li {}
 # JavaScript
 ## Basic Javascript instruction
 * first of all JS is a **Case SENSITIVE** language
-second writing **comments** is good programming habit by using /* */
+second writing **comments** is good programming habit by using /* */ for multiple line comments and // for single line comment
 
 * var variableName = 3; **this how to declare a variable and assign value to it**
 
@@ -85,5 +85,5 @@ some of the comparison operators are
 * !== which means strict not strict equal to and compares both data type and value
 ## logical operators 
 1. And: has && symbol
-2. or: with the | symbol
+2. or: with the \| symbol
 3. Not: which has a ! symbol
