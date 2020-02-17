@@ -85,5 +85,5 @@ some of the comparison operators are
 * !== which means strict not strict equal to and compares both data type and value
 ## logical operators 
 1. And: has && symbol
-2. or: with the \|| symbol
+2. or: with the \|\| symbol
 3. Not: which has a ! symbol
