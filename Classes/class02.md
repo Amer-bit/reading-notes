@@ -22,7 +22,7 @@ to associate a certain style with elements first u should select the element/s b
 ## CSS Selectors
 to select an element css provides a couple selectors we can use
 Selectors|Definition|Expression
----------|----------|----------
+---------|---------|---------
 Universal selector|Applies to all elements in the document| * {}
 Type Selector|Matches element names|h1, h2, h3 {}
 Class Selector|Elements have the same attribute class| .atrributeName{}
@@ -36,7 +36,7 @@ Child Selector|element that is a direct child of another|ul>li {}
 
 # JavaScript
 ## Basic Javascript instruction
-first of all JS is a **Case SENSITIVE** language
+* first of all JS is a **Case SENSITIVE** language
 second writing **comments** is good programming habit by using /* */
 
 * var variableName = 3; **this how to declare a variable and assign value to it**
