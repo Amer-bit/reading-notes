@@ -21,12 +21,12 @@ to associate a certain style with elements first u should select the element/s b
 
 ## CSS Selectors
 to select an element css provides a couple selectors we can use
-Selectors | Definition | Expression
----------- | ----------- | ------------
-Universal selector | Applies to all elements in the document | * {}
-Type Selector | Matches element names | h1, h2, h3 {}
-Class Selector | Elements have the same attribute class | .atrributeName{}
-Child Selector | element that is a direct child of another | ul>li {}
+Selectors|Definition|Expression
+-----------|------------|-=-----------
+Universal selector|Applies to all elements in the document|* {}
+Type Selector|Matches element names|h1, h2, h3 {}
+Class Selector|Elements have the same attribute class|.atrributeName{}
+Child Selector|element that is a direct child of another|ul>li {}
 
 ## Cascading Effects
 #### CSS deals with cascading effects on the basis of last rule i.e. the latest style will be applied to the element, specificity that is If one selector is more specific than the others, the more specific rule will be applied lastly by using !important after any property to indicate that it should be considered more important than other rules that apply to the same element
@@ -83,6 +83,6 @@ some of the comparison operators are
 * === which means strict equal to and compares both data type and value
 * !== which means strict not strict equal to and compares both data type and value
 ## logical operators 
-1. And has && symbol
-2. or with the || symbol
-3. Not which has a ! symbol
+1. And: has && symbol
+2. or: with the | symbol
+3. Not: which has a ! symbol
