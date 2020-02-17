@@ -21,6 +21,7 @@ to associate a certain style with elements first u should select the element/s b
 
 ## CSS Selectors
 to select an element css provides a couple selectors we can use
+
 Selectors|Definition|Expression
 ---------|---------|---------
 Universal selector|Applies to all elements in the document| * {}
