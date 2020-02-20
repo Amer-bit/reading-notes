@@ -18,7 +18,7 @@ hosting.
 
 ## On larger websites it's a good idea to organize your code by placing the pages for each different section of the site into a new folder. Folders on a website are sometimes referred to as directories
 
-**NOTE: Refer to the Image on page 82** in this page u will see the directory strucutre The top-level folder is known as the root folder. (In this example, the root folder is called examplearts.) The root folder
+**NOTE: Refer to the Image on page 82** in this page you will see the directory strucutre The top-level folder is known as the root folder. (In this example, the root folder is called examplearts.) The root folder
 contains all of the other files and folders for a website. Each section of the site is placed in a separate folder; this helps organize the files.
 
 **Benifits of using relaive URL in your project**
