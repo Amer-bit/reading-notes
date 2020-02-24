@@ -25,7 +25,6 @@ column or a row. It can take the values: row to indicate a heading for a row or 
  * /<tbosy>: The body should sit inside the /<tbody> element.
  * /<tfoot>: The footer belongs inside the /<tfoot> element.
 
- **Wecan also change the width, spacing, border and background of the table
+ **Wecan also change the width, spacing, border and background of the table**
 
  # Js Function and methods
- 
