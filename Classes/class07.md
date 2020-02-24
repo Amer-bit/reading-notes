@@ -13,18 +13,23 @@ I**it is followed by one or more <td> elements **(one for each cell in that row)
 
 ### Table Heading
 
-The <th> element is used just like the /<td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
+The \<th> element is used just like the \<td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
 
-You can use the scope attribute on the /<th> element to indicate whether it is a heading for a
+You can use the scope attribute on the \<th> element to indicate whether it is a heading for a
 column or a row. It can take the values: row to indicate a heading for a row or col to indicate a heading for a column.
  
  we can **Span Coloumn and Rows**  using colspan nad rowspan attributes and they are used on th or td tags
 
  There are three elements that help distinguish between the main content of the table and the first and last rows (which can contain different content). These elements help people who use screen readers and also allow you to style these sections in a different manner than the rest of the table whcich are:
- * /<thead>: The headings of the table should sit inside the /<thead> element.
- * /<tbosy>: The body should sit inside the /<tbody> element.
- * /<tfoot>: The footer belongs inside the /<tfoot> element.
+ * \<thead>: The headings of the table should sit inside the \<thead> element.
+ * \<tbosy>: The body should sit inside the \<tbody> element.
+ * \<tfoot>: The footer belongs inside the \<tfoot> element.
 
- **Wecan also change the width, spacing, border and background of the table**
+ **We can also change the width, spacing, border and background of the table**
 
  # Js Function and methods
+ 
+ We can create new object and assgin properties and methods to it using new and object constructor. To update an already declared object we use this syntax objectNmae.propertyorMethodname = theValue ; . or we can update the **properties only** using this syntax
+ hotel\[propertyName] = newValue;
+
+
