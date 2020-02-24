@@ -14,4 +14,4 @@ API: let programs talk to each other
 
 ## How DOM Works
 
-Every time browser loads it create a DOM tree. The DOM is stored in the browser memory and it consist of four types of nodesgi
+Every time browser loads it create a DOM tree. The DOM is stored in the browser memory and it consist of four types of nodes

@@ -23,7 +23,7 @@ Its good idea to keep all the images in seprate folder with subfolders
 the bottom of the image.
  3. in the middle of a paragraph: The image is placed between the words of the paragraph that it appears in.
 
-**Rulles for creating images**
+**Rules for creating images**
 1. Save image in the right format.
 2. Save image at te right size.
 3. Save image in the right resolution
