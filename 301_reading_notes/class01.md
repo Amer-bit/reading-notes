@@ -33,6 +33,25 @@ There are a couple different ways to use media queries, using the @media rule in
 
 Each media query may include a media type followed by one or more expressions. Common media types include all, screen, print, tv, and braille. The HTML5 specification includes new media types, even including 3d-glasses. Should a media type not be specified the media query will default the media type to screen.
 
-**Logical operators in media**
+**Logical operators in media queries**
 
 Logical operators in media queries help build powerful expressions. There are three different logical operators available for use within media queries, including and, not, and only.
+
+Omitting a Media Type when using the not and only logical operators the media type may be left off. In this case the media type is defaulted to all.
+
+***Media Features in Media Queries***
+
+Height & Width Media Features
+Using Minimum & Maximum Prefixes
+Orientation Media Feature
+Aspect Ratio Media Features
+Pixel Ratio Media Features
+Resolution Media Feature
+Other Media Features:
+Other media features include identifying available output colors with use of the color, color-index, and monochrome features, identifying bitmap devices with the grid feature, and identifying the scanning process of a television with the scan feature. These features are less common but equally as helpful when needed.
+
+**Media Query Browser Support**
+Unfortunately media queries do not work within Internet Explorer 8 and below, as well as other legacy browsers. There are, however, a couple suitable polyfills written in Javascript.
+
+**Respond.js** is a lightweight polyfill that only looks for min/max-width media types, which is perfect should those be the only media query types used. 
+**CSS3-MediaQueries.js** is a more developed, and heavier, polyfill offering support for a larger array of more complex media queries. Additionally, keep in mind any polyfill can have performance concerns, and potentially slow down websites. Make sure that any given polyfill is worth the performance trade off.
