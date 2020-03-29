@@ -34,4 +34,5 @@ Class15 | [C15](https://amer-bit.github.io/reading-notes/Classes/class15)
 Class  | Link
 ------ | -----
 Class01 | [C01](https://amer-bit.github.io/reading-notes/301_reading_notes/class01)
+Class02 | [C02](https://amer-bit.github.io/reading-notes/301_reading_notes/class02)
 
