@@ -30,37 +30,37 @@ The total space surrounded by four grid lines.
 
 **Grid Properties**
 
-Properties for the Grid Container
+### Properties for the Grid Container
 
-display
-grid-template-columns
-grid-template-rows
-grid-template-areas
-grid-template
-grid-column-gap
-grid-row-gap
-grid-gap
-justify-items                                                   
-align-items                                     
-place-items                                                 
-justify-content
-align-content
-place-content
-grid-auto-columns
-grid-auto-rows
-grid-auto-flow
-grid
+1. display
+2. grid-template-columns
+3. grid-template-rows
+4. grid-template-areas
+5. grid-template
+6. grid-column-gap
+7. grid-row-gap
+8. grid-gap
+9. justify-items                                                   
+10. align-items                                     
+11. place-items                                                 
+12. justify-content
+13. align-content
+14. place-content
+15. grid-auto-columns
+16. grid-auto-rows
+17. grid-auto-flow
+18. grid
 
 
-Properties for the Grid Items
+### Properties for the Grid Items
 
-grid-column-start
-grid-column-end
-grid-row-start
-grid-row-end
-grid-column
-grid-row
-grid-area
-justify-self
-align-self
-place-self
+1. grid-column-start
+2. grid-column-end
+3. grid-row-start
+4. grid-row-end
+5. grid-column
+6. grid-row
+7. grid-area
+8. justify-self
+9. align-self
+10. place-self
