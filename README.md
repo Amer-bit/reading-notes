@@ -41,4 +41,4 @@ Class04 | [C04](https://amer-bit.github.io/reading-notes/301_reading_notes/class
 Class05 | [C05](https://amer-bit.github.io/reading-notes/301_reading_notes/class05)
 Class06 | [C06](https://amer-bit.github.io/reading-notes/301_reading_notes/class06)
 Class07 | [C07](https://amer-bit.github.io/reading-notes/301_reading_notes/class07)
-
+Class08 | [C08](https://amer-bit.github.io/reading-notes/301_reading_notes/class08)
