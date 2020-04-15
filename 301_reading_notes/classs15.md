@@ -1,0 +1,11 @@
+# DIVERSITY AND INCLUSION
+
+It’s no secret that there is a pronounced gender gap in technology fields. In 2014, 70% of the employees at the top tech companies in Silicon Valley, such as Google, Facebook, and Twitter, were male. In technical roles, this phenomenon is even more pronounced; for example, only 10% of the technical workforce at Twitter is female.
+
+But things haven’t always been this way. The numbers of enrollments among men and women in computer science were on their way toward parity in the 1970s and early 1980s. In 1984, 37% of computer science graduates were women, but those numbers began to drop dramatically in the middle of the decade. By 2016, that number had been whittled down to 18%. This dip in the 1980s has created a chasm that the past 30 years hasn’t been able to overcome—and the dude-centric computer marketing campaigns of that time may be to blame.
+
+## The experience gap widens
+ 
+ “experience gap.” In a study she conducted in 1995, found that among first-year computer-science students at Carnegie Mellon University, 40% of male respondents passed the advanced-placement computer-science exam, meaning they could skip the introductory-level programming class. None of the first year women achieved the same result. Men were also more familiar with programming languages than women and were more likely to report having an “expert” level of programming proficiency before enrolling at Carnegie Mellon. Unsurprisingly, many women opted out of the computer-related courses early.
+ 
+ An American Association of University Women review of more than 380 studies from academic journals, corporations, and government sources found that more early exposure to engineering and computing among boys in school creates “more positive attitudes toward and interest in STEM subjects.” By the time students now reach university, 20% of men plan to take on a career in engineering or computing. Among women, that number is just 5.8%. Women start out so far behind that they often can’t catch up.
