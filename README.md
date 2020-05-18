@@ -52,3 +52,4 @@
 | -------- | --------------------------------------------------------------------------- |
 | Class00  | [C00](https://amer-bit.github.io/reading-notes/401_reading_notes/engineeringTopics) |
 | Class01  | [C01](https://amer-bit.github.io/reading-notes/401_reading_notes/class01) |
+| Class02  | [C02](https://amer-bit.github.io/reading-notes/401_reading_notes/class02) |
