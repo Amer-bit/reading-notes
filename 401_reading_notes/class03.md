@@ -44,8 +44,11 @@ In modern software development, CRUD has transcended its origins as foundational
 **Principles of CRUD:**
 
 **Create**: CREATE procedures to generate a new record in a database.
+
 **Read/Retrieve**: READ procedures reads the data based on input parameters.
+
 **Update**: UPDATE procedures modify the existing record in a database.
+
 **Delete**: DELETE procedures deletes record in a database based on input parameter.
 
 # Database schema
