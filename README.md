@@ -55,3 +55,4 @@
 | Class02  | [C02](https://amer-bit.github.io/reading-notes/401_reading_notes/class02) |
 | Class03  | [C03](https://amer-bit.github.io/reading-notes/401_reading_notes/class03) |
 | Class04  | [C04](https://amer-bit.github.io/reading-notes/401_reading_notes/class04) |
+| ClassLinkedList  | [LinkedList](https://amer-bit.github.io/reading-notes/401_reading_notes/LinkedList) |
