@@ -2,7 +2,7 @@
 
 ### **This website include my work in reading notes Repo for 201&301 courses**
 
-# 201 Table of cotent
+# 201 Table of content
 
 | Class   | Link                                                            |
 | ------- | --------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 
 <br><br>
 
-# 301 Table of cotent
+# 301 Table of content
 
 | Class    | Link                                                                        |
 | -------- | --------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@
 
 <br><br>
 
-# 301 Table of cotent
+# 401 Table of content
 
 | Class    | Link                                                                        |
 | -------- | --------------------------------------------------------------------------- |
@@ -56,3 +56,4 @@
 | Class03  | [C03](https://amer-bit.github.io/reading-notes/401_reading_notes/class03) |
 | Class04  | [C04](https://amer-bit.github.io/reading-notes/401_reading_notes/class04) |
 | ClassLinkedList  | [LinkedList](https://amer-bit.github.io/reading-notes/401_reading_notes/LinkedList) |
+| Class 06  | [C06](https://amer-bit.github.io/reading-notes/401_reading_notes/class06) |
