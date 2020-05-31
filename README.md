@@ -57,3 +57,4 @@
 | Class04  | [C04](https://amer-bit.github.io/reading-notes/401_reading_notes/class04) |
 | ClassLinkedList  | [LinkedList](https://amer-bit.github.io/reading-notes/401_reading_notes/LinkedList) |
 | Class 06  | [C06](https://amer-bit.github.io/reading-notes/401_reading_notes/class06) |
+| Class 07  | [C07](https://amer-bit.github.io/reading-notes/401_reading_notes/class07) |
