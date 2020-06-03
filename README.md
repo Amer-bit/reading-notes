@@ -59,3 +59,4 @@
 | Class 06  | [C06](https://amer-bit.github.io/reading-notes/401_reading_notes/class06) |
 | Class 07  | [C07](https://amer-bit.github.io/reading-notes/401_reading_notes/class07) |
 | Class 08  | [C08](https://amer-bit.github.io/reading-notes/401_reading_notes/class08) |
+| Class 09  | [C09](https://amer-bit.github.io/reading-notes/401_reading_notes/class09) |
