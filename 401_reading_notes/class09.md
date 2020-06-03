@@ -1,4 +1,32 @@
-## API Server
+# API Server
+
+## Router 
+
+`router.param(name, callback)`
+
+Adds callback triggers to route parameters, where name is the name of the parameter and callback is the callback function. Although name is technically optional, using this method without it is deprecated starting with Express v4.11.0 (see below).
+
+The parameters of the callback function are:
+
+* req, the request object.
+* res, the response object.
+* next, indicating the next middleware function.
+* The value of the name parameter.
+* The name of the parameter.
+Unlike app.param(), router.param() does not accept an array of route parameters.Param callback functions are local to the router on which they are defined. They are not inherited by mounted apps or routers. Hence, param callbacks defined on router will be triggered only by route parameters defined on router routes.
+
+A param callback will be called only once in a request-response cycle, even if the parameter is matched in multiple routes
+
+
+
+# `Middleware`
+Middleware (also called pre and post hooks) are functions which are passed control during execution of asynchronous functions. Middleware is specified on the schema level and is useful for writing plugins
+
+`Types of Middleware`
+
+Mongoose has 4 types of middleware: document middleware, model middleware, aggregate middleware, and query middleware. Document middleware is supported for the following document functions. In document middleware functions, this refers to the document.
+
+
 
 
 ### Sub Documents in Mongoose
