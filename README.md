@@ -55,8 +55,9 @@
 | Class02  | [C02](https://amer-bit.github.io/reading-notes/401_reading_notes/class02) |
 | Class03  | [C03](https://amer-bit.github.io/reading-notes/401_reading_notes/class03) |
 | Class04  | [C04](https://amer-bit.github.io/reading-notes/401_reading_notes/class04) |
-| ClassLinkedList  | [LinkedList](https://amer-bit.github.io/reading-notes/401_reading_notes/LinkedList) |
+| ClassLinkedList  | [C05](https://amer-bit.github.io/reading-notes/401_reading_notes/LinkedList) |
 | Class 06  | [C06](https://amer-bit.github.io/reading-notes/401_reading_notes/class06) |
 | Class 07  | [C07](https://amer-bit.github.io/reading-notes/401_reading_notes/class07) |
 | Class 08  | [C08](https://amer-bit.github.io/reading-notes/401_reading_notes/class08) |
 | Class 09  | [C09](https://amer-bit.github.io/reading-notes/401_reading_notes/class09) |
+| stack&queues  | [C10](https://amer-bit.github.io/reading-notes/401_reading_notes/class10) |
