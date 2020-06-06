@@ -61,3 +61,4 @@
 | Class 08  | [C08](https://amer-bit.github.io/reading-notes/401_reading_notes/class08) |
 | Class 09  | [C09](https://amer-bit.github.io/reading-notes/401_reading_notes/class09) |
 | stack&queues  | [C10](https://amer-bit.github.io/reading-notes/401_reading_notes/class10) |
+| Authentication  | [C11](https://amer-bit.github.io/reading-notes/401_reading_notes/class11) |
