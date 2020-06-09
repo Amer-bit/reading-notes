@@ -3,7 +3,7 @@
 
 More specifically, OAuth is a standard that apps can use to provide client applications with “secure delegated access”. OAuth works over HTTPS and authorizes devices, APIs, servers, and applications with access tokens rather than credentials.
 
- ## How does OAuth work?
+##  How does OAuth work?
 
 1. Application spawns the “Login Using xxx” window, asking for specific permissions
 2. User Agrees to allow this to happen
