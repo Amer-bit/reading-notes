@@ -64,3 +64,4 @@
 | Authentication  | [C11](https://amer-bit.github.io/reading-notes/401_reading_notes/class11) |
 | OAuth  | [C12](https://amer-bit.github.io/reading-notes/401_reading_notes/class12) |
 | Bearer  | [C13](https://amer-bit.github.io/reading-notes/401_reading_notes/class13) |
+| RBAC  | [C14](https://amer-bit.github.io/reading-notes/401_reading_notes/class14) |
