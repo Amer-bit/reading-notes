@@ -23,7 +23,7 @@ When a listener is registered using the eventEmitter.on() method, that listener 
 
 
 
-Class: EventEmitter
+(**NOTE:metohds for the EventEmitter class**) Class: EventEmitter
 
 * Event: 'newListener'
 * Event: 'removeListener'
