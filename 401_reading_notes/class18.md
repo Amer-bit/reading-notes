@@ -28,5 +28,8 @@ The main advantages of Socket.IO over WebSockets are:
 * If a WebSocket connection drops, it will not automatically reconnect. Socket.IO automatically reconnect
 * Socket.IO APIs are built to be easier to work with.
 
+![WebSocket network traffic:](https://paper-attachments.dropbox.com/s_9B750843AD391DD18C43F9A1C54BF0E8B19D8875DA02F5C307E02AE114843421_1573472298052_Schermata+2019-11-11+alle+12.30.35.png)
+
+![Socket.io network traffic:](https://paper-attachments.dropbox.com/s_9B750843AD391DD18C43F9A1C54BF0E8B19D8875DA02F5C307E02AE114843421_1573472301809_Schermata+2019-11-11+alle+12.30.51.png)
 
 
