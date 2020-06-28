@@ -70,3 +70,4 @@
 | TCP Servers  | [C17](https://amer-bit.github.io/reading-notes/401_reading_notes/class17) |
 | Socket.io  | [C18](https://amer-bit.github.io/reading-notes/401_reading_notes/class18) |
 | Socket.io Namespaces  | [C19](https://amer-bit.github.io/reading-notes/401_reading_notes/class19) |
+| Component Based UI  | [C26](https://amer-bit.github.io/reading-notes/401_reading_notes/class26) |
