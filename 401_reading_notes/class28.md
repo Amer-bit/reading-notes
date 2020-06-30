@@ -2,6 +2,7 @@
 components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
 
 **NOTE: recommend naming props from the component’s own point of view rather than the context in which it is being used**
+**NOTE: JavaScript expression can be passed as a prop, by surrounding it with {}.**
 
 # Function and Class Components
 The simplest way to define a component is to write a JavaScript function.We call such components “function components” because they are literally JavaScript functions.
