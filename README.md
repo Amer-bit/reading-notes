@@ -73,3 +73,4 @@
 | Component Based UI  | [C26](https://amer-bit.github.io/reading-notes/401_reading_notes/class26) |
 | React Testing and Deployment  | [C27](https://amer-bit.github.io/reading-notes/401_reading_notes/class27) |
 | Props and State  | [C28](https://amer-bit.github.io/reading-notes/401_reading_notes/class28) |
+| Component Composition  | [C29](https://amer-bit.github.io/reading-notes/401_reading_notes/class29) |
