@@ -76,4 +76,5 @@
 | Component Composition  | [C29](https://amer-bit.github.io/reading-notes/401_reading_notes/class29) |
 | Hash Tables  | [C30](https://amer-bit.github.io/reading-notes/401_reading_notes/class30) |
 | Hooks API  | [C31](https://amer-bit.github.io/reading-notes/401_reading_notes/class31) |
+| Custom Hooks | [C32](https://amer-bit.github.io/reading-notes/401_reading_notes/class32) |
 
