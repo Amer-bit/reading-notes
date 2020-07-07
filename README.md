@@ -78,4 +78,6 @@
 | Hooks API  | [C31](https://amer-bit.github.io/reading-notes/401_reading_notes/class31) |
 | Custom Hooks | [C32](https://amer-bit.github.io/reading-notes/401_reading_notes/class32) |
 | Context API | [C33](https://amer-bit.github.io/reading-notes/401_reading_notes/class33) |
+| Authentication + Role Based Authorization + rbac| [C34](https://amer-bit.github.io/reading-notes/401_reading_notes/class34) |
+
 
