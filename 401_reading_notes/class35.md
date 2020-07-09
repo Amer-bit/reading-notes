@@ -22,4 +22,24 @@ There are many different types of graphs. **This depends on how connected the gr
 ## Graph Representation
 We represent graphs through:
 * Adjacency Matrix
+An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix
+
 * Adjacency List
+ the most common way to represent graphs. An adjacency list is a collection of linked lists or array that lists all of the other vertices that are connected.
+
+* Weighted Graphs
+A weighted graph is a graph with numbers assigned to its edges. These numbers are called weights.
+
+## Traversals
+* Breadth First
+* Depth First
+
+
+## Real World Uses of Graphs
+Graphs are extremely popular when it comes to it’s uses. Here are just a few examples of graphs in use:
+
+* GPS and Mapping
+* Driving Directions
+* Social Networks
+* Airline Traffic
+* Netflix uses graphs for suggestions of products
