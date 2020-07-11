@@ -80,4 +80,4 @@
 | Context API | [C33](https://amer-bit.github.io/reading-notes/401_reading_notes/class33) |
 | Authentication + Role Based Authorization + rbac| [C34](https://amer-bit.github.io/reading-notes/401_reading_notes/class34) |
 | Graph | [C35](https://amer-bit.github.io/reading-notes/401_reading_notes/class35) |
-
+| Application State with Redux | [C36](https://amer-bit.github.io/reading-notes/401_reading_notes/class36) |
