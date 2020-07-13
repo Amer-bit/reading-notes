@@ -82,3 +82,4 @@
 | Graph | [C35](https://amer-bit.github.io/reading-notes/401_reading_notes/class35) |
 | Application State with Redux | [C36](https://amer-bit.github.io/reading-notes/401_reading_notes/class36) |
 | Redux - Combined Reducers | [C37](https://amer-bit.github.io/reading-notes/401_reading_notes/class37) |
+| Redux - Asynchronous Actions | [C38](https://amer-bit.github.io/reading-notes/401_reading_notes/class38) |
