@@ -1,5 +1,5 @@
 # Redux - Combined Reducers
-Combined reducers is nothing more than pulling in more than one reducer from source and creating a keyed object from them.
+Combined reducers is nothing more than pulling in more than one reducer from source and creating a keyed object from them. **Combine reducers takes a hash of reducers and returns a reducer. The resulting reducer represents an object of the same shape as the hash.**
 
 As your app grows more complex, you'll want to **split** your reducing function into separate functions, each managing independent parts of the state.
 
