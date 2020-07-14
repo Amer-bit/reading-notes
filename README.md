@@ -83,3 +83,5 @@
 | Application State with Redux | [C36](https://amer-bit.github.io/reading-notes/401_reading_notes/class36) |
 | Redux - Combined Reducers | [C37](https://amer-bit.github.io/reading-notes/401_reading_notes/class37) |
 | Redux - Asynchronous Actions | [C38](https://amer-bit.github.io/reading-notes/401_reading_notes/class38) |
+| Redux - Additional Topics | [C39](https://amer-bit.github.io/reading-notes/401_reading_notes/class39) |
+
